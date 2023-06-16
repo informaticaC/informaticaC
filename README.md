@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Gabriel Pesoa
 - 🖼 I'm front-end web developer.
 - 👀 I’m interested in full stack programming and embedded systems.
-- 🌱 I’m currently learning full stack programming and embedded systems. Hey, that sounds like they're not very related,
--  yes but it's for a reason, I have a project that justifies that!
+- 🌱 I’m  full stack web developer. 
+- 💞️My hobby is developing embedded systems with arduino.
 - 💞️ I’m looking to collaborate on embedded systems development.
 - 📫 How to reach me pesoa01@gmail.com
 
